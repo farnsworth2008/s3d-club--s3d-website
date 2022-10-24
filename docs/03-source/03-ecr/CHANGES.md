@@ -11,5 +11,5 @@ Recently completed and planned work is tracked here.
 - Updated `name` module
 - Updated `time` provider
 
-## [0.1.9-1000](.)
+## [0.1.9](.)
 - Added `terraform.tf`
