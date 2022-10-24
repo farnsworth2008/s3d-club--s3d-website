@@ -11,3 +11,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.7](.)
 - Updated `hashicorp/aws` provider
+
+## [0.1.8-1000](.)
+- Updated `.terraform.lock.hcl`

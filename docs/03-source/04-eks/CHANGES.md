@@ -13,3 +13,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.6](.)
 - Updated `hashicorp/aws` provider
+
+## [0.1.7-1000](.)
+- Added `terraform.tf`
