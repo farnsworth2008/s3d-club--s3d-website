@@ -8,5 +8,6 @@ Plan:
 - Created our early versions
 - Forked upstream code
 
-## [0.1.10-s3d-1002](.)
+## [0.1.10](.)
 - Updated `.terraform.lock.hcl`
+- Updated `change` module
